@@ -47,8 +47,8 @@ const Test = () => {
                 {/* Course Section */}
                 <div className="w-full flex flex-col gap-3">
                     {[
-                        { icon: "ri-message-2-line ri-1x", text: "WhatsApp Channel for Updates", href: "https://whatsapp.com/channel/0029VahGmJQ8kyyK2Xv6OA0Y" },
-                        { icon: "ri-chat-1-line ri-1x", text: "Instagram Channel for Updates", href: "https://ig.me/j/AbYAsEmFeC7N27Jp/" },
+                        { icon: "ri-message-2-line ri-1x", text: "WhatsApp Channel - arabic vibes ッ", href: "https://whatsapp.com/channel/0029VahGmJQ8kyyK2Xv6OA0Y" },
+                        { icon: "ri-chat-1-line ri-1x", text: "Instagram Channel - catatan kecil ッ", href: "https://ig.me/j/AbYAsEmFeC7N27Jp/" },
                         // { icon: "ri-code-s-slash-line ri-1x", text: "Personal Website & Portfolio", href: "/" },
                         // { icon: "ri-edit-2-line ri-1x", text: "Free Editing Assets Store", href: "/creator" },
                         // { icon: "ri-apps-line ri-1x", text: "Premium Ready-to-Use Apps", href: "/store" },
