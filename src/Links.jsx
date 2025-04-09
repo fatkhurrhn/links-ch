@@ -18,7 +18,7 @@ const Test = () => {
                         </span> */}
                     </div>
                     <a href="" className="mt-[-12px] text-black-500 text-sm text-center">
-                        sekedar kata2 yang mungkin relate dengan keadaan dirimu saat ini eaaakk 🤗
+                        sekedar kata2 yang mungkin relate dengan <br/> keadaan dirimu saat ini eaaakk 🤗
                     </a>
                 </div>
 
