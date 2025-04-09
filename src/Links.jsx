@@ -1,5 +1,5 @@
 import React from "react";
-import PP from "/pp.jpg";
+import PP from "/quality_restortion_20250409143749186.jpeg";
 // import PPP from "./assets/profil.jpg";
 
 const Test = () => {
