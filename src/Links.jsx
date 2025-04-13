@@ -1,5 +1,5 @@
 import React from "react";
-import PP from "/quality_restortion_20250409143749186.jpeg";
+import PP from "/ppp.jpg";
 // import PPP from "./assets/profil.jpg";
 
 const Test = () => {
@@ -12,7 +12,7 @@ const Test = () => {
                         <img src={PP} alt="Fatkhurrhn's profile" className="w-full h-full object-cover" />
                     </div>
                     <div className="flex items-center gap-2 mt-[-3px] text-2xl font-bold text-gray-900">
-                    arabic vibes ッ
+                    quotes arabic ッ
                         {/* <span className="text-blue-500 text-xl">
                             <i className="fas fa-check-circle"></i>
                         </span> */}
@@ -47,7 +47,7 @@ const Test = () => {
                 {/* Course Section */}
                 <div className="w-full flex flex-col gap-3">
                     {[
-                        { icon: "ri-message-2-line ri-1x", text: "WhatsApp Channel - arabic vibes ッ", href: "https://whatsapp.com/channel/0029VahGmJQ8kyyK2Xv6OA0Y" },
+                        { icon: "ri-message-2-line ri-1x", text: "WhatsApp Channel - quotes arabic ッ", href: "https://whatsapp.com/channel/0029VahGmJQ8kyyK2Xv6OA0Y" },
                         { icon: "ri-chat-1-line ri-1x", text: "Instagram Channel - catatan kecil ッ", href: "https://ig.me/j/AbYAsEmFeC7N27Jp/" },
                         // { icon: "ri-code-s-slash-line ri-1x", text: "Personal Website & Portfolio", href: "/" },
                         // { icon: "ri-edit-2-line ri-1x", text: "Free Editing Assets Store", href: "/creator" },
